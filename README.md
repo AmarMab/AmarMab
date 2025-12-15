@@ -17,6 +17,27 @@ Alongside my technical development, I am committed to continuous learning and se
 
 ---
 
+## 🚀 Recent Projects
+
+- **Simple GIS Application – Crime Analysis**  
+  Developed a GIS-based application to analyse and visualise crime data using spatial datasets. Created multiple thematic maps in **QGIS**, performed spatial analysis, and produced a structured report interpreting patterns and trends.
+
+- **Programming Coursework Projects**  
+  Completed a range of university programming tasks focused on algorithmic thinking, data handling, and object-oriented programming using **Python and Java**.
+
+- **Personal Portfolio Development**  
+  Designed and maintained a GitHub profile portfolio to document projects, reflect on learning progress, and showcase technical skills in a professional format.
+
+---
+
+## 🎯 Hobbies & Interests
+
+- Coding and experimenting with new programming tools and technologies  
+- Working on academic and personal software projects  
+- Gaming, with an interest in strategy and problem-solving games  
+- Exploring data visualisation and digital maps  
+- Learning about emerging technologies in computing
+- Playing Football from time to time and watching Arsenal ⚽
 ## 🛠️ Skills
 
 <p>
@@ -34,16 +55,6 @@ Alongside my technical development, I am committed to continuous learning and se
 - Problem-solving
 - Teamwork & communication
 - Time management
-
-
----
-
-## 🎯 Hobbies & Interests
-- Coding and experimenting with new technologies
-- Working on university projects
-- Gaming
-- Learning about new software tools
-- Exploring data and maps
 
 ---
 
