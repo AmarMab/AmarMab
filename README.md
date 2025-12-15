@@ -1,6 +1,6 @@
 # Hi, I'm Mabrouk Amar 👋
 
-🎓 Computer Science student at University Of South Wales
+🎓 Computer Science student at **University Of South Wales**
 💻 Interested in software development, data, and problem-solving  
 
 ---
