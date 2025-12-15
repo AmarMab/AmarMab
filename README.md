@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Mabrouk Amar 👋
 
 🎓 Computer Science student at university of south wales
 💻 Interested in software development, data, and problem-solving  
